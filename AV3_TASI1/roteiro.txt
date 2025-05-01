@@ -1,0 +1,41 @@
+Nessa atividade, o objetivo é que o aluno demonstre sua habilidade em instalar e operar o Ollama localmente, 
+bem como gerar vetores de embeddings a partir de um texto simples utilizando Python.
+
+==========================================================================================================================================
+Descrição da Atividade:
+1. Instalação e Configuração do Ollama
+    O aluno deve instalar e configurar o Ollama localmente em sua máquina.
+    Recomenda-se seguir as orientações fornecidas na documentação oficial do Ollama ou as instruções disponibilizadas em aula.
+    É necessário garantir que o Ollama esteja operante, permitindo a geração de embeddings a partir de um modelo aberto.
+
+2. Criação de um Script Python ou Notebook Jupyter
+    Desenvolver um script em Python ou um notebook Jupyter que execute as seguintes ações:
+        Conectar ao Ollama localmente.
+        Fornecer um texto simples (por exemplo, uma frase curta em português ou inglês).
+        Gerar os vetores de embeddings correspondentes ao texto utilizando o Ollama.
+        Exibir o vetor de embeddings, seja de forma integral ou por meio de um sumário, como o tamanho do vetor e alguns valores iniciais.
+
+3. Repositório no GitHub
+    Criar um repositório público no GitHub contendo:
+        O código-fonte do script Python ou notebook Jupyter.
+    Um README.md com:
+        Instruções para reprodução do ambiente.
+        Orientações para instalação de dependências e execução do script ou notebook.
+
+4. Demonstração em Vídeo (até 3 minutos)
+    Gravar um vídeo objetivo (máximo de 3 minutos) demonstrando as seguintes etapas:
+        Execução do Ollama localmente, exibindo o comando de inicialização e/ou a saída que confirma que o serviço está ativo.
+        Execução do script Python ou notebook Jupyter, mostrando a geração do vetor de embeddings e a saída no console.
+        O vídeo deve ser claro e objetivo, de forma a evidenciar a execução bem-sucedida de todas as etapas.
+
+
+=============================================================================================================================================
+Critérios de Avaliação:
+    Funcionalidade: O script ou notebook deve ser executável e capaz de gerar embeddings a partir do Ollama local.
+    Documentação: O README no GitHub deve conter informações claras e suficientes para que o instrutor consiga reproduzir o teste localmente.
+    Evidência em Vídeo: O vídeo deve comprovar visualmente que todas as etapas foram realizadas com sucesso.
+    Qualidade do Código: O código ou notebook deve ser bem organizado, claro e de fácil compreensão.
+
+Entrega:
+    Link para o repositório GitHub contendo o código e o README.
+    Link com o vídeo de demonstração.
