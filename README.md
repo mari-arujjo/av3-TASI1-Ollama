@@ -9,16 +9,8 @@ Lembrar de retirar as aspas simples '' na execução dos codigos no terminal.
 - Biblioteca 'requests' instalada (rode no terminal 'pip install requests' para instalar).
 
 ## 🚀 Como executar?
-<<<<<<< HEAD
-1. Inicie o Ollama executando no seu terminal: 'ollama serve'
-2. Baixe o arquivo 'av3_script.py'
-3. Abra no terminal o diretório onde o arquivo .py está localizado: 'cd C:\Users\seu_user\...\...\...\'
-4. Execute o arquivo .py no terminal: 'python av3_script.py'
-5. Prontinho! =p
-=======
 1. Quando instalamos o Ollama ele começa a rodar em segundo plano automaticamente, para verificar execute no seu terminal 'ollama list', deve aparecer informações como o nome do modelo, a memória utilizada e a última modificação feita. Caso não apareça nenhuma dessas informações, inicie o Ollama executando no seu terminal 'ollama serve'.
 2. Baixe o arquivo 'av3_script.py'.
 3. Abra no terminal o diretório onde o arquivo .py está localizado: 'cd C:\Users\seu_user\...\...\...\'.
 4. Execute o arquivo .py no terminal: 'python av3_script.py'.
 5. Prontinho! =p
->>>>>>> c99078c (Update README e adição do arquivo .mp4 demonstrando a execução do script)
