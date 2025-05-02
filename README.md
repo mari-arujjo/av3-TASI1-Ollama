@@ -1,6 +1,7 @@
 # 📌 Ollama Embeddings Script
 Esse repositório é referente a AV3 da matéria de TASI 1, contendo um script Python para gerar tokens e embeddings de uma frase usando o Ollama localmente.
-Lembrar de retirar as aspas simples '' na execução dos codigos no terminal.
+- Lembrar de retirar as aspas simples '' na execução dos codigos no terminal.
+- Tentei iniciar e encerrar o Ollama diretamente no script, mas não consegui! =<
 
 ## 🔧 Pré-requisitos!
 - Ollama instalado (https://ollama.com/download).
